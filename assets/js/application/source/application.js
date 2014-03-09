@@ -173,7 +173,7 @@ $(document).ready(function(){
     */
     $('#twitterfeed-slider').tweet({
         modpath: 'plugins/twitter/',
-        username: 'TheGridelicious',
+        username: 'urbanirondesign',
         count: 3
     });
     
